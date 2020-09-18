@@ -1,4 +1,4 @@
-# | Paritosh Sharma - Computer Graphics Research    [CV](./CV.pdf)    [Blog](http://blog.paritosh-sharma.com/)
+# Paritosh Sharma - Computer Graphics Research  [CV](./CV.pdf)  [Blog](http://blog.paritosh-sharma.com/)
 
 
 ## About Me
