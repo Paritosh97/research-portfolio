@@ -1,11 +1,11 @@
-# Paritosh Sharma - Computer Graphics Research
+# Paritosh Sharma - Computer Graphics Research      [CV](./CV.pdf)      [Blog](http://blog.paritosh-sharma.com/)
 
 
 ## About Me
 
 I am a grad student at [Université Grenoble Alpes - ENSIMAG, Grenoble, France](https://mosig.imag.fr). My major field of interest is Graphics, Vision and Robotics. I received my Bachelor's degree from [SRM Institude of Science and Technology, Chennai, India](https://www.srmist.edu.in/).
 
-You can contact me at contact@paritosh-sharma.com.
+You can contact me at <contact@paritosh-sharma.com>.
 
 ## News
 
