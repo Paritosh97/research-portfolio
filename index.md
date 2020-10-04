@@ -21,7 +21,7 @@ TODO
 Advances on adding a [Qt3D based backend](http://paritosh-sharma.com/gsoc-2020/) for popular planetarium software [KStars](https://edu.kde.org/kstars/) with support for astronomical projections.
 
 ### Simulator for Mass Spring Systems
-TODO
+Demonstration of several algorithms for Mass Spring Systems. Such systems are utilized for simulation of cloth and hair particles in computer graphics.
 
 ### Underwater scene using OpenGL
 An [underwater scene](https://github.com/Paritosh97/underwater-opengl) implemented using PyOpenGL and GLFW during my course [3D Computer Graphics](https://chamilo.grenoble-inp.fr/courses/ENSIMAG4MMG3D6/)
@@ -40,4 +40,7 @@ TODO
 ### Mobile VR integration for Godot
 During my [GSoC 2018](http://paritosh-sharma.com/gsoc-2018/), I worked on integrating GearVR and Google DayDream for [Godot Engine](https://godotengine.org/).
 
+## Talks
 
+### KDE Akademy 2020
+[Talk](https://www.youtube.com/watch?v=-KXb1Vte940) on adding a [Qt3D based backend](http://paritosh-sharma.com/gsoc-2020/) for popular planetarium software [KStars](https://edu.kde.org/kstars/).
