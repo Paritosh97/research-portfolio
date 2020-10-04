@@ -25,6 +25,7 @@ Demonstration of several algorithms for Mass Spring Systems. Such systems are ut
 
 ### Underwater scene using OpenGL
 An [underwater scene](https://github.com/Paritosh97/underwater-opengl) implemented using PyOpenGL and GLFW during my course [3D Computer Graphics](https://chamilo.grenoble-inp.fr/courses/ENSIMAG4MMG3D6/)
+![Underwater Scene Demo](images/underwater.gif)
 
 
 ## Work
@@ -39,6 +40,7 @@ TODO
 
 ### Mobile VR integration for Godot
 During my [GSoC 2018](http://paritosh-sharma.com/gsoc-2018/), I worked on integrating GearVR and Google DayDream for [Godot Engine](https://godotengine.org/).
+
 
 ## Talks
 
