@@ -19,6 +19,9 @@ TODO
 
 ### Qt3D based backend for KStars
 Advances on adding a [Qt3D based backend](http://paritosh-sharma.com/gsoc-2020/) for popular planetarium software [KStars](https://edu.kde.org/kstars/) with support for astronomical projections.
+\
+\
+![Qt3D KStars Demo](images/qt3d-kstars.gif)
 
 ### Simulator for Mass Spring Systems
 [Demonstration](https://paritosh-sharma.com/mass-spring-simulator/) of several algorithms for Mass Spring Systems. Such systems are utilized for simulation of cloth and hair particles in computer graphics.
