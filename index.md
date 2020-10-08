@@ -3,9 +3,10 @@
 
 ## About Me
 
-I am a grad student at [Université Grenoble Alpes - ENSIMAG, Grenoble, France](https://mosig.imag.fr){:target="_blank" rel="noopener"}. My major field of interest is Graphics, Vision and Robotics. I received my Bachelor's degree from [SRM Institude of Science and Technology, Chennai, India](https://www.srmist.edu.in/){:target="_blank" rel="noopener"}.
+I am a grad student at [Université Grenoble Alpes - ENSIMAG, Grenoble, France](https://mosig.imag.fr){:target="_blank" rel="noopener"}. My major field of interest is Graphics, Vision and Robotics. I received my Bachelor's degree from [SRM Institude of Science and Technology](https://www.srmist.edu.in/){:target="_blank" rel="noopener"}.
 
 You can contact me at <contact@paritosh-sharma.com>.
+
 
 ## News
 
@@ -35,6 +36,12 @@ An [underwater scene](https://github.com/Paritosh97/underwater-opengl){:target="
 \
 ![Underwater Scene Demo](images/underwater.gif)
 
+### Unity3D projects
+TODO
+\
+\
+<!--![TODO](images/todo.gif)-->
+
 
 ## Work
 
@@ -44,7 +51,7 @@ My recent work has been in the fields of Computer Graphics, HCI and Computer Vis
 In my M1 thesis, my [work](http://paritosh-sharma.com/gazeplay-interaction/){:target="_blank" rel="noopener"} aims at improving the eye interaction methods for [GazePlay](https://gazeplay.github.io/GazePlay/){:target="_blank" rel="noopener"}.
 
 ### Finger Tracking for Extended Reality
-TODO
+Principles such as nail detection, hand silhouette detection and more utilized to detect fingers in XR games using fixed focus cameras. This can be used with existing game engines like Unity for content creation.
 
 ### Mobile VR integration for Godot
 During my [GSoC 2018](http://paritosh-sharma.com/gsoc-2018/){:target="_blank" rel="noopener"}, I worked on integrating GearVR and Google DayDream for [Godot Engine](https://godotengine.org/){:target="_blank" rel="noopener"}.
