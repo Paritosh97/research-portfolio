@@ -7,8 +7,6 @@ I am a grad student at [Université Grenoble Alpes - ENSIMAG, Grenoble, France](
 
 You can contact me at [here](mailto:contact@paritosh-sharma.com,paritosh.sharma@etu.univ-grenoble-alpes.fr)
 
-<contact@paritosh-sharma.com>.
-
 
 ## News
 
