@@ -15,20 +15,20 @@ I am looking for a position in Computer Graphics. Feel free to contact me.
 
 ## Projects
 
-### Differentiable Rendering
-<!--[A simple comparison and summary](http://blog.paritosh-sharma.com/2020-10-09/differentiable-rendering){:target="_blank" rel="noopener"} of different types of existing Differentiable Renderers(for example rasterizer, ray marching, point-based techniques and single shaded surfaces). Such systems are utilized in inverse graphics to approximate scene geometry, illumination, materials, and motions from image observations.-->
-
-### Qt3D based backend for KStars
-Advances on adding a [Qt3D based backend](http://paritosh-sharma.com/gsoc-2020/){:target="_blank" rel="noopener"} for popular planetarium software [KStars](https://edu.kde.org/kstars/){:target="_blank" rel="noopener"} with support for astronomical projections.
-\
-\
-![Qt3D KStars Demo](images/qt3d-kstars.gif)
+<!--### Differentiable Rendering
+[A simple comparison and summary](http://blog.paritosh-sharma.com/2020-10-09/differentiable-rendering){:target="_blank" rel="noopener"} of different types of existing Differentiable Renderers(for example rasterizer, ray marching, point-based techniques and single shaded surfaces). Such systems are utilized in inverse graphics to approximate scene geometry, illumination, materials, and motions from image observations.-->
 
 ### Simulator for Mass Spring Systems
 [Demonstration](https://paritosh-sharma.com/mass-spring-simulator/){:target="_blank" rel="noopener"} of several algorithms for Mass Spring Systems. Such systems are utilized for simulation of cloth and hair particles in computer graphics.
 \
 \
 ![Mass Spring Demo](images/mass-spring.gif)
+
+### Qt3D based backend for KStars
+Advances on adding a [Qt3D based backend](http://paritosh-sharma.com/gsoc-2020/){:target="_blank" rel="noopener"} for popular planetarium software [KStars](https://edu.kde.org/kstars/){:target="_blank" rel="noopener"} with support for astronomical projections.
+\
+\
+![Qt3D KStars Demo](images/qt3d-kstars.gif)
 
 ### Underwater scene using OpenGL
 An [underwater scene](https://github.com/Paritosh97/underwater-opengl){:target="_blank" rel="noopener"} implemented using PyOpenGL and GLFW during my course [3D Computer Graphics](https://chamilo.grenoble-inp.fr/courses/ENSIMAG4MMG3D6/){:target="_blank" rel="noopener"}.
