@@ -16,7 +16,7 @@ I am looking for a position in Computer Graphics. Feel free to contact me.
 ## Projects
 
 ### Differentiable Rendering
-[A simple comparison and summary](http://blog.paritosh-sharma.com/2020-10-09/differentiable-rendering){:target="_blank" rel="noopener"} of different types of existing Differentiable Renderers(for example rasterizer, ray marching, point-based techniques and single shaded surfaces). Such systems are utilized in inverse graphics to approximate scene geometry, illumination, materials, and motions from image observations.
+<!--[A simple comparison and summary](http://blog.paritosh-sharma.com/2020-10-09/differentiable-rendering){:target="_blank" rel="noopener"} of different types of existing Differentiable Renderers(for example rasterizer, ray marching, point-based techniques and single shaded surfaces). Such systems are utilized in inverse graphics to approximate scene geometry, illumination, materials, and motions from image observations.-->
 
 ### Qt3D based backend for KStars
 Advances on adding a [Qt3D based backend](http://paritosh-sharma.com/gsoc-2020/){:target="_blank" rel="noopener"} for popular planetarium software [KStars](https://edu.kde.org/kstars/){:target="_blank" rel="noopener"} with support for astronomical projections.
