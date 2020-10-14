@@ -5,7 +5,7 @@
 
 I am a grad student at [Université Grenoble Alpes - ENSIMAG, Grenoble, France](https://mosig.imag.fr){:target="_blank" rel="noopener"}. My major field of interest is Graphics, Vision and Robotics. I received my Bachelor's degree from [SRM Institude of Science and Technology](https://www.srmist.edu.in/){:target="_blank" rel="noopener"}.
 
-You can contact me at [here](mailto:contact@paritosh-sharma.com,paritosh.sharma@etu.univ-grenoble-alpes.fr)
+You can contact me [here](mailto:contact@paritosh-sharma.com,paritosh.sharma@etu.univ-grenoble-alpes.fr)
 
 
 ## News
