@@ -59,3 +59,6 @@ During my [GSoC 2018](http://paritosh-sharma.com/gsoc-2018/){:target="_blank" re
 
 ### KDE Akademy 2020
 [Talk](https://www.youtube.com/watch?v=-KXb1Vte940){:target="_blank" rel="noopener"} on adding a [Qt3D based backend](http://paritosh-sharma.com/gsoc-2020/){:target="_blank" rel="noopener"} for popular planetarium software [KStars](https://edu.kde.org/kstars/){:target="_blank" rel="noopener"}.
+
+### UGA i-Days 2020
+An application idea pitched in the fields of Nutrition, AI, and IoT that aims at solving Vitamin D deficiencies in the elderly. Our team was awarded bronze medal for this idea. For more details, check out the [blog post](http://blog.paritosh-sharma.com/2020-11-07/uga-idays-2020).
