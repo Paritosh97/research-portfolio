@@ -16,7 +16,7 @@ My recent research has been in the fields of Computer Graphics and Human Compute
 My [M2 thesis](https://paritosh-sharma.com/internship-m2/){:target="_blank" rel="noopener"} focuses on animating AZee(a sign language description language) using Blender.
 \
 \
-![AZee animator](images/arbre.png)
+![AZee animator](images/azee_animator.png)
 
 ### Interaction methods for eye tracking for cognitively disabled people
 In my M1 thesis, my [work](http://paritosh-sharma.com/gazeplay-interaction/){:target="_blank" rel="noopener"} aims at improving the eye interaction methods for [GazePlay](https://gazeplay.github.io/GazePlay/){:target="_blank" rel="noopener"}.
